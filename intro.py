@@ -33,8 +33,8 @@ print(names + str(age))  # parse int into a string print(name + str(age) )
 seperator()
 
 if (age < 90):
-    print('your young')
+    print('young!')
 elif (age == 90):
-    print('old ass')
+    print('old!')
 else:
-    print('way too old')
+    print('what?')
